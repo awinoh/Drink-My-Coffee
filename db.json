@@ -1,0 +1,73 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "title": "Coffee Obsessed!",
+      "helpful": 0,
+      "image": "./app/assets/coffee.jpg",
+      "description": [
+        {
+          "id": 1,
+          "imageId": 1,
+          "content": "Their espresso had a great sweet smooth taste, I loved it!"
+        },
+        {
+          "id": 2,
+          "imageId": 1,
+          "content": "The espresso was sweet and smooth!"
+        },
+        {
+          "id": 3,
+          "imageId": 1,
+          "content": "Loved their espresso!"
+        },
+        {
+          "id": 4,
+          "imageId": 1,
+          "content": "Better than I expected!"
+        }
+      ]
+    }
+  ],
+  "description": [
+    {
+      "id": 1,
+      "imageId": 1,
+      "content": "Their espresso had a great sweet smooth taste, I loved it!"
+    },
+    {
+      "id": 2,
+      "imageId": 1,
+      "content": "The espresso was sweet and smooth!"
+    },
+    {
+      "id": 3,
+      "imageId": 1,
+      "content": "Loved their espresso!"
+    },
+    {
+      "id": 4,
+      "imageId": 1,
+      "content": "Better than I expected!"
+    },
+    {
+      "id": 5,
+      "imageId": 1,
+      "content": "The coffee was amazing"
+    }
+  ],
+  "location": [
+    {
+      "id": 1,
+      "imageId": 1,
+      "content": "Donholm"
+    }
+  ],
+  "type": [
+    {
+      "id": 1,
+      "imageId": 1,
+      "content": "Capuccino"
+    }
+  ]
+}
